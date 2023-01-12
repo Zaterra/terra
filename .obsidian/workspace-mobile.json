@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "43b92f377cff0816",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c29fc587a2b5982",
+        "type": "split",
+        "children": [
+          {
+            "id": "18172195ad137e17",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3e4796ee00f17502",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Teknologi/Komputer/Programming Language/Debugging.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "8667523db9206a11",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9878c6635b563ccb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Teknologi/Komputer/Programming Language/Javascript/Asynchronous.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "909559525700812b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d318a1f729e428b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teknologi/Komputer/Programming Language/Javascript/Asynchronous.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26443857d92b393d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3fd06731ae5c36b3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4df0273a0788351e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9bdf07dc44e68ed2",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d9f02f9bea3093fd",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "becbc9cb022a3845",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "feccf7aad4544b53",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Teknologi/Komputer/Programming Language/Debugging.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "20912c1c7a4e32e6",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Teknologi/Komputer/Programming Language/Debugging.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4e85f03b05e672eb",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Teknologi/Komputer/Programming Language/Debugging.md"
+          }
+        }
+      },
+      {
+        "id": "f84db4f8c4d6d378",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "active": "3e4796ee00f17502",
+  "lastOpenFiles": [
+    "Teknologi/Komputer/Programming Language/Javascript/Asynchronous.md",
+    "Sekolah/IPA/Fisika/Materi dan perubahannya.md",
+    "Sekolah/IPA/Fisika/Benda dan sifatnya.md",
+    "Sekolah/IPA/Besaran dan satuan.md",
+    "Sekolah/IPA/IPA.md",
+    "Templates/Ipa.md",
+    "Teknologi/Komputer/Programming Language/Javascript/Sejarah javascript.md",
+    "Templates/Programming language tutorial.md",
+    "Sekolah/IPA/Fisika/Tes/S.md",
+    "Teknologi/Komputer/Programming Language/Javascript/Javascript.md"
+  ]
+}
