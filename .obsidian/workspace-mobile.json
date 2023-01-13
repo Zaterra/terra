@@ -4,59 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5c29fc587a2b5982",
-        "type": "split",
-        "children": [
-          {
-            "id": "18172195ad137e17",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3e4796ee00f17502",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Teknologi/Komputer/Programming Language/Debugging.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "8667523db9206a11",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9878c6635b563ccb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Teknologi/Komputer/Programming Language/Javascript/Asynchronous.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "909559525700812b",
+        "id": "18172195ad137e17",
         "type": "tabs",
         "children": [
           {
-            "id": "5d318a1f729e428b",
+            "id": "3e4796ee00f17502",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teknologi/Komputer/Programming Language/Javascript/Asynchronous.md",
+                "file": "Sekolah/IPA/Fisika/Materi dan perubahannya.md",
                 "mode": "source",
                 "source": true
               }
@@ -128,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Teknologi/Komputer/Programming Language/Debugging.md",
+            "file": "Sekolah/IPA/Fisika/Materi dan perubahannya.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Teknologi/Komputer/Programming Language/Debugging.md",
+            "file": "Sekolah/IPA/Fisika/Materi dan perubahannya.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -157,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Teknologi/Komputer/Programming Language/Debugging.md"
+            "file": "Sekolah/IPA/Fisika/Materi dan perubahannya.md"
           }
         }
       },
@@ -169,19 +126,20 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 3
   },
   "active": "3e4796ee00f17502",
   "lastOpenFiles": [
-    "Teknologi/Komputer/Programming Language/Javascript/Asynchronous.md",
-    "Sekolah/IPA/Fisika/Materi dan perubahannya.md",
-    "Sekolah/IPA/Fisika/Benda dan sifatnya.md",
-    "Sekolah/IPA/Besaran dan satuan.md",
     "Sekolah/IPA/IPA.md",
-    "Templates/Ipa.md",
+    "Sekolah/IPA/Besaran dan satuan.md",
+    "Sekolah/IPA/Fisika/Benda dan sifatnya.md",
+    "Sekolah/IPA/Fisika/Materi dan perubahannya.md",
+    "Sekolah/IPA/Fisika/Energi dan perubahannya.md",
     "Teknologi/Komputer/Programming Language/Javascript/Sejarah javascript.md",
-    "Templates/Programming language tutorial.md",
-    "Sekolah/IPA/Fisika/Tes/S.md",
-    "Teknologi/Komputer/Programming Language/Javascript/Javascript.md"
+    "Teknologi/Komputer/Programming Language/Javascript/Javascript.md",
+    "Sekolah/IPA/Biologi/Untitled.md",
+    "Teknologi/Komputer/Programming Language/Javascript/Dasar-dasar javascript.md",
+    "Teknologi/Komputer/Programming Language/Javascript/Dasar-dasar javascript/Tipe data.md"
   ]
 }

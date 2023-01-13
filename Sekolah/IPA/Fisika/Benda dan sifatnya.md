@@ -3,6 +3,7 @@ file-created: 2023-01-10
 kelas: 7
 ---
 tags:: #ipa #benda #fisika
+index:: [[Sekolah/IPA/IPA]]
 
 **Benda** itu memenuhi ruang
 Maka disebut materi sesuatu yang memenuhi ruang (Volume)

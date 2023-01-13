@@ -12,11 +12,13 @@ index:: [[Sekolah/IPA/IPA]]
 **Satuan** merupakan alat pembanding dalam suatu pengukuran.
 
 *Contoh:* $\frac{\text{panjang tali}}{1} = \frac{60}{2} \frac{\text{cm}}{3}$
-
-*1 = besaran
-2 = angka
-3 = satuan*
-
+$$
+\begin{align}
+1 &= \text{besaran}\\
+2 &= \text{angka}\\
+3 &= \text{satuan}
+\end{align}
+$$
 ## Satuan
 
 **Satuan dibagi menjadi 2 yaitu:** 
