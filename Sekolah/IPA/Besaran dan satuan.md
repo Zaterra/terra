@@ -50,9 +50,28 @@ $$
 \end{align}
 $$
 
-### Kumpulan satuan
+## Besaran fisika/fisis
 
-```dataview
-list
-WHERE file.folder=this.file.folder+"/Satuan"
-```
+> Segala sesuatu (dalam hal yang berkaitan dengan pengukuran fisika) yang dapat diukur dan dapat dinyatakan dengan angka
+
+Besaran dibagi menjadi 2 yaitu :
+1. [[Besaran dan satuan#Besaran pokok]]
+2. [[Besaran dan satuan#Besaran turunan]]
+
+### Besaran pokok
+
+> Besaran yang satuannya ditetapkan/didefinisikan
+
+Besaran yang termasuk besaran pokok ada 7 yaitu :
+1. Suhu
+2. Massa
+3. Panjang
+4. Jumlah zat
+5. Intesitas cahaya
+6. Waktu
+7. Arus Listrik
+
+### Besaran turunan
+
+> Besaran yang satuannya diturunkan/disusun dari besaran pokok. *Contoh :*$\text{Kecepatan, Percepatan, Gaya, Usaha, Dan lain-lain}$
+
