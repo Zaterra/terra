@@ -63,13 +63,18 @@ Besaran dibagi menjadi 2 yaitu :
 > Besaran yang satuannya ditetapkan/didefinisikan
 
 Besaran yang termasuk besaran pokok ada 7 yaitu :
-1. Suhu
-2. Massa
-3. Panjang
-4. Jumlah zat
-5. Intesitas cahaya
-6. Waktu
-7. Arus Listrik
+
+| Besaran pokok    | Satuan                | Berdimensi      |
+| ---------------- | --------------------- | --------------- |
+| Suhu             | Kelvin($^{\circ}K$)   | theta($\theta$) |
+| Massa            | Kilogram($kg$)        | massa($M$)      |
+| Panjang          | Meter($m$)            | length($L$)     |
+| Jumlah zat       | mol($mol$)            | $N$             |
+| Intesitas cahaya | kandela/candela($cd$) | $J$             |
+| Waktu            | sekon/second($s$)     | $T$             |
+| Arus listrik                 | Amphere($A$)                      |     $I$            |
+
+**Dimensi** adalah
 
 ### Besaran turunan
 
