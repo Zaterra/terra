@@ -64,19 +64,22 @@ Besaran dibagi menjadi 2 yaitu :
 
 Besaran yang termasuk besaran pokok ada 7 yaitu :
 
-| Besaran pokok    | Satuan                | Berdimensi      |
-| ---------------- | --------------------- | --------------- |
-| Suhu             | Kelvin($^{\circ}K$)   | theta($\theta$) |
-| Massa            | Kilogram($kg$)        | massa($M$)      |
-| Panjang          | Meter($m$)            | length($L$)     |
-| Jumlah zat       | mol($mol$)            | $N$             |
-| Intesitas cahaya | kandela/candela($cd$) | $J$             |
-| Waktu            | sekon/second($s$)     | $T$             |
-| Arus listrik                 | Amphere($A$)                      |     $I$            |
+| Besaran pokok    | Symbol | Deskripsi                                                                                                                  | Satuan berdasarkan SI | Berdimensi      |   Keterangan  |
+| ---------------- | ------ | -------------------------------------------------------------------------------------------------------------------------- | --------------------- | --------------- | --- |
+| Suhu/Temperatur  | $T$    | Energi kinetik rata-rata perderajat kebebasan suatu sistem                                                                 | Kelvin($K$)           | theta($\theta$) |  intensif, ekstensif   |
+| Massa            | $m$    | Ukuran ketahanan terhadap kecepatan                                                                                        | Kilogram($kg$)        | mass($M$)       |  ektensif, skalar   |
+| Panjang          | $l$    | Jangkauan satu dimensi suatu objek                                                                                         | Meter($m$)            | length($L$)     |  ekstensif   |
+| Jumlah zat       | $n$    | Kuantitas yang sebanding dengan jumlah partikel dalem sampel, dengan konstanta avogadro sebagai konstanta proporsionalitas | mol($mol$)            | $N$             |  ekstensif, skalar   |
+| Intesitas cahaya | $l_v$  | Kuatan paniang gelombang dari cahaya yang dipancarkan persatuan sudut padat                                                | kandela/candela($cd$) | $J$             |  skalar   |
+| Waktu            | $t$    | Durasi suatu kejadian                                                                                                      | sekon/second($s$)     | time($T$)       |  skalar   |
+| Arus listrik     | $A$    | Tingkat aliran muatan listrik persatuan waktu                                                                              | Amphere($A$)          | $I$             |  ektensif   |
 
-**Dimensi** adalah
+ **Apa yang dimaksud dengan dimensi? **
+ Hal ini dijelaskan di [[Satuan dan besaran (Lanjutan)]]
 
 ### Besaran turunan
 
 > Besaran yang satuannya diturunkan/disusun dari besaran pokok. *Contoh :*$\text{Kecepatan, Percepatan, Gaya, Usaha, Dan lain-lain}$
+
+ 
 

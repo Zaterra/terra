@@ -1,8 +1,8 @@
 ---
 file-created: 2023-01-10
-kelas: 7
 ---
 tags:: #ipa #benda #fisika
+kelas:: 7
 index:: [[Sekolah/IPA/IPA]]
 
 **Benda** itu memenuhi ruang
