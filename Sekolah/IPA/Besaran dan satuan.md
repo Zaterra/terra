@@ -21,10 +21,6 @@ $$
 $$
 ## Satuan
 
-**Satuan dibagi menjadi 2 yaitu:** 
-1. ==Satuan baku== dan ==satuan tidak baku==
-2. ==Satuan internasional (SI)==
-
 ### Satuan baku
 
 > Merupakan satuan yang apabila dipakai oleh orang berbeda akan menghasilkan satuan yang sama.
@@ -50,6 +46,19 @@ $$
 \end{align}
 $$
 
+### Satuan pokok SI
+
+> Satuan pokok SI/Satuan dasar SI adalah beberapa satuan baku yang ditetapkan/didefinisikan
+
+```dataview
+TABLE WITHOUT ID
+file.link AS "Satuan pokok",
+file.symbol AS "Simbol satuan",
+file.dimensi AS "Simbol dimensi",
+file.besaran AS "Nama besaran"
+FROM "Sekolah/IPA/Besaran dan satuan/Satuan pokok SI"
+```
+
 ## Besaran fisika/fisis
 
 > Segala sesuatu (dalam hal yang berkaitan dengan pengukuran fisika) yang dapat diukur dan dapat dinyatakan dengan angka
@@ -66,16 +75,16 @@ Besaran yang termasuk besaran pokok ada 7 yaitu :
 
 | Besaran pokok    | Symbol | Deskripsi                                                                                                                  | Satuan berdasarkan SI | Berdimensi      |   Keterangan  |
 | ---------------- | ------ | -------------------------------------------------------------------------------------------------------------------------- | --------------------- | --------------- | --- |
-| Suhu/Temperatur  | $T$    | Energi kinetik rata-rata perderajat kebebasan suatu sistem                                                                 | Kelvin($K$)           | theta($\theta$) |  intensif, ekstensif   |
-| Massa            | $m$    | Ukuran ketahanan terhadap kecepatan                                                                                        | Kilogram($kg$)        | mass($M$)       |  ektensif, skalar   |
-| Panjang          | $l$    | Jangkauan satu dimensi suatu objek                                                                                         | Meter($m$)            | length($L$)     |  ekstensif   |
-| Jumlah zat       | $n$    | Kuantitas yang sebanding dengan jumlah partikel dalem sampel, dengan konstanta avogadro sebagai konstanta proporsionalitas | mol($mol$)            | $N$             |  ekstensif, skalar   |
-| Intesitas cahaya | $l_v$  | Kuatan paniang gelombang dari cahaya yang dipancarkan persatuan sudut padat                                                | kandela/candela($cd$) | $J$             |  skalar   |
+| Suhu/Temperatur  | $T$    | Seberapa panas/dingin suatu benda                                                                 | Kelvin($K$)           | theta($\theta$) |  intensif, ekstensif   |
+| Massa            | $m$    | Massa atau kandungan materi                                                                                        | Kilogram($kg$)        | mass($M$)       |  ektensif, skalar   |
+| Panjang          | $l$    | Panjang benda                                                                                         | Meter($m$)            | length($L$)     |  ekstensif   |
+| Jumlah zat       | $n$    | Jumlah partikel yang terkandung dalam benda | mol($mol$)            | $N$             |  ekstensif, skalar   |
+| Intesitas cahaya | $l_v$  | Seberapa terang cahaya pada suatu benda                                                | kandela/candela($cd$) | $J$             |  skalar   |
 | Waktu            | $t$    | Durasi suatu kejadian                                                                                                      | sekon/second($s$)     | time($T$)       |  skalar   |
 | Arus listrik     | $A$    | Tingkat aliran muatan listrik persatuan waktu                                                                              | Amphere($A$)          | $I$             |  ektensif   |
 
  **Apa yang dimaksud dengan dimensi? **
- Hal ini dijelaskan di [[Satuan dan besaran (Lanjutan)]]
+ Hal ini dijelaskan di [[Besaran dan satuan (Lanjutan)]]
 
 ### Besaran turunan
 
