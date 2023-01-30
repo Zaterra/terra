@@ -22,7 +22,7 @@ WHERE file.folder=this.file.folder and file.name!=this.file.name
 
 ```dataview
 table kelas as "Kelas"
-WHERE file.folder=this.file.folder+"/Fisika" and kelas
+WHERE this.file.folder+"/Fisika" and kelas
 sort kelas
 ```
 
